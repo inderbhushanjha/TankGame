@@ -2,6 +2,10 @@ import pygame
 import time
 import random
 
+
+
+# ths is a simple game which is copied from some site just to test how git works
+
 pygame.init()
 
 display_width = 800

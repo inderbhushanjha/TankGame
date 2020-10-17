@@ -1,2 +1,2 @@
 # TankGame
-simple tank game in python
+A simple tank game in python
